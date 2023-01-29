@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - monster
+  - boss
+  - GlobalLight
+  - Player_atk
+  - map_block
+  - level_controller
+  - camera_move
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - Player
+  - a
+  - monster
+  - bullet
+  - ignore
+  - detection
+  - Mbullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 356004175
+    locked: 0
+  - name: thing
+    uniqueID: 2238381141
+    locked: 0
+  - name: Enemy
+    uniqueID: 280370553
+    locked: 0
+  - name: Player
+    uniqueID: 3932195049
+    locked: 0
+  - name: ui
+    uniqueID: 1347672631
+    locked: 0

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 94b1934349699e148af35dcc3e09146b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - my_Anim: {instanceID: 0}
+  - my_Rigi: {instanceID: 0}
+  - SR: {instanceID: 0}
+  - particle_blood: {instanceID: 0}
+  - fire_death: {instanceID: 0}
+  - floatPoint: {fileID: 1884687543403172468, guid: eaca67aa1744e004da47b479a1e045c0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
